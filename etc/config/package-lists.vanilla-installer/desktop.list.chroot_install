@@ -1,18 +1,4 @@
-vanilla-base-meta
-vanilla-base-desktop
-
-switcheroo-control
-epiphany-browser
-gnome-calculator
-gnome-music
-gnome-photos
-gnome-software
-gnome-disk-utility
-gnome-sushi
-epiphany-browser
-evince
-yelp
-file-roller
-eog
-orca
-totem
+# ubuntu meta packages
+ubuntu-desktop
+ubuntu-minimal
+ubuntu-standard
