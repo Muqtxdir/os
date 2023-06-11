@@ -32,7 +32,7 @@ cp binary_grub-efi /usr/lib/live/build/binary_grub-efi
 
 # TODO: Remove this once debootstrap has a script to build kinetic images in our container:
 # https://salsa.debian.org/installer-team/debootstrap/blob/master/debian/changelog
-ln -sfn /usr/share/debootstrap/scripts/gutsy /usr/share/debootstrap/scripts/kinetic
+ln -sfn /usr/share/debootstrap/scripts/gutsy /usr/share/debootstrap/scripts/lunar
 
 build () {
   BUILD_ARCH="$1"
